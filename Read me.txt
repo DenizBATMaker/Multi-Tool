@@ -1,0 +1,37 @@
+Multi Tool
+
+Overview
+
+Multi Tool is a versatile batch script designed for various utility functions. It offers a streamlined and user-friendly command-line interface to perform tasks efficiently.
+
+Requirements
+
+Windows Operating System
+
+Command Prompt with UTF-8 encoding (chcp 65001)
+
+How to Run
+
+Ensure the LICENSE file is present in the same directory as the Multi Tool.bat file.
+
+Double-click the Multi Tool.bat file to launch it.
+
+Note: The tool will not function if the LICENSE file is missing.
+
+Features
+
+Simple and intuitive interface
+
+ASCII art visuals
+
+Multi-functional utilities (details available in the tool)
+
+Troubleshooting
+
+If the tool doesn’t launch:
+
+Verify that the LICENSE file is present in the directory.
+
+Check if your Command Prompt supports UTF-8 encoding.
+
+Contact the developer for further assistance.
